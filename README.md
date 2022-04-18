@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dharmvir73
-- 👀 I create cool things with no limits.
+- 👀 I create cool things with programming.
 - ⌨️ These are my prefrence Languages { Java, C, Html, Css, JavaScript, React.js, ReactNative, Python } 
 - 💻 Favorite OS = { Windows, Kali Linux }
 - 🌱 Imagination is the most powerfull thing in programming.
